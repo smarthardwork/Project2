@@ -18,4 +18,4 @@ This playbook is for setting up version 4.9.x of the Wordpress on a local server
  
  The plays in the playbook will run on the target server, installing ELK and the specified beats shippers. 
  
-[playbook.yml]: https://github.com/smarthardwork/Project2/playbook.yml
+[playbook.yml]: https://github.com/smarthardwork/Project2/blob/master/playbook.yml
